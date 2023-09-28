@@ -7,6 +7,7 @@ Welcome to lanigit's profile page!
 |-----:|-----------|
 |     1| Javascript|
 |     2| Python    |
-|     3| SQL       |
+|     3| PHP       |
+|     4| Ruby|
 
 </details>
